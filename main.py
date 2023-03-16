@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
+
 urls = [
     "https://www.123roulement.com/rubrique/roulement-bille"
 ]
